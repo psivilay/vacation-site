@@ -1,0 +1,8 @@
+blockquote footer {
+  color: blue;
+}
+
+.column {
+  float: left;
+  width: 300px;
+}
